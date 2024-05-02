@@ -1,25 +1,31 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\sebas\\OneDrive\\Documentos\\Repos\\Matematicas\\Operaciones\\Operaciones.csproj": {}
+    "C:\\Users\\sebas\\OneDrive\\Documentos\\Repos\\Matematicas\\Operaciones\\Operaciones.csproj": {}
   },
   "projects": {
-    "c:\\Users\\sebas\\OneDrive\\Documentos\\Repos\\Matematicas\\Operaciones\\Operaciones.csproj": {
+    "C:\\Users\\sebas\\OneDrive\\Documentos\\Repos\\Matematicas\\Operaciones\\Operaciones.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\sebas\\OneDrive\\Documentos\\Repos\\Matematicas\\Operaciones\\Operaciones.csproj",
+        "projectUniqueName": "C:\\Users\\sebas\\OneDrive\\Documentos\\Repos\\Matematicas\\Operaciones\\Operaciones.csproj",
         "projectName": "Operaciones",
-        "projectPath": "c:\\Users\\sebas\\OneDrive\\Documentos\\Repos\\Matematicas\\Operaciones\\Operaciones.csproj",
+        "projectPath": "C:\\Users\\sebas\\OneDrive\\Documentos\\Repos\\Matematicas\\Operaciones\\Operaciones.csproj",
         "packagesPath": "C:\\Users\\sebas\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\sebas\\OneDrive\\Documentos\\Repos\\Matematicas\\Operaciones\\obj\\",
+        "outputPath": "C:\\Users\\sebas\\OneDrive\\Documentos\\Repos\\Matematicas\\Operaciones\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\sebas\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\sebas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

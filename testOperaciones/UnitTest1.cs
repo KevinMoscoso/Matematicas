@@ -1,4 +1,5 @@
 namespace testOperaciones;
+using Operaciones;
 
 public class UnitTest1
 {
@@ -16,6 +17,6 @@ public class UnitTest1
         ///Act: Invocar al metodo
         resultadoReal=operacionesBasicas.suma(a,b);
         ///Assert: verificar el resultado sea lo esperado
-        Assert.Equal(resultadoEsperado, resultadoReal)
+        Assert.Equal(resultadoEsperado, resultadoReal);
     }
 }

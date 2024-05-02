@@ -1,0 +1,12 @@
+C:\Users\sebas\OneDrive\Documentos\Repos\Matematicas\Operaciones\bin\Debug\net8.0\Operaciones.deps.json
+C:\Users\sebas\OneDrive\Documentos\Repos\Matematicas\Operaciones\bin\Debug\net8.0\Operaciones.dll
+C:\Users\sebas\OneDrive\Documentos\Repos\Matematicas\Operaciones\bin\Debug\net8.0\Operaciones.pdb
+C:\Users\sebas\OneDrive\Documentos\Repos\Matematicas\Operaciones\obj\Debug\net8.0\Operaciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebas\OneDrive\Documentos\Repos\Matematicas\Operaciones\obj\Debug\net8.0\Operaciones.AssemblyInfoInputs.cache
+C:\Users\sebas\OneDrive\Documentos\Repos\Matematicas\Operaciones\obj\Debug\net8.0\Operaciones.AssemblyInfo.cs
+C:\Users\sebas\OneDrive\Documentos\Repos\Matematicas\Operaciones\obj\Debug\net8.0\Operaciones.csproj.CoreCompileInputs.cache
+C:\Users\sebas\OneDrive\Documentos\Repos\Matematicas\Operaciones\obj\Debug\net8.0\Operaciones.sourcelink.json
+C:\Users\sebas\OneDrive\Documentos\Repos\Matematicas\Operaciones\obj\Debug\net8.0\Operaciones.dll
+C:\Users\sebas\OneDrive\Documentos\Repos\Matematicas\Operaciones\obj\Debug\net8.0\refint\Operaciones.dll
+C:\Users\sebas\OneDrive\Documentos\Repos\Matematicas\Operaciones\obj\Debug\net8.0\Operaciones.pdb
+C:\Users\sebas\OneDrive\Documentos\Repos\Matematicas\Operaciones\obj\Debug\net8.0\ref\Operaciones.dll
